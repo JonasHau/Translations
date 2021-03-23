@@ -1,5 +1,5 @@
 <div class="centered">
-<img alt="démo de la sommation d'un tableau" src="http://s5.postimg.org/ixq2y0nnb/sum_in_loop.gif"/>
+<img alt="démo de la sommation d'un tableau" src="https://codeabbey.github.io/data/sum_in_loop.gif"/>
 </div>
 
 Maintenant notre but sera d'apprendre les **boucles** - c'est à dire des actions répétées.
@@ -10,12 +10,12 @@ est préalablement connu.
 
 Si vous avez de la difficulté, essayez le problème [Sums In Loop](./sums-in-loop) d'abord - il est possiblement plus simple.
 
-**Input data** (Données fournies) ont le format suivant:
+**Input data** ont le format suivant:
 
 - la 1ère ligne contient `N` - le nombre de valeur à additionner;
 - la 2ième ligne contient les `N` valeurs en question.
 
-**Answer** (Réponse) devrait contenir une seule valeur - la somme des `N` valeurs.
+**Answer** devrait contenir une seule valeur - la somme des `N` valeurs.
 
 Exemple:
 

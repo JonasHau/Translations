@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img src="http://s5.postimg.org/js0okbn3r/sums_in_loop.gif" alt="sommation de deux tableaux"/>
+	<img src=""https://codeabbey.github.io/data/sums_in_loop.gif"" alt="sommation de deux tableaux"/>
 </div>
 <br/>
 
@@ -10,7 +10,7 @@ cet exercise ne sera qu'une simple modification.
 
 On nous fourni maintenant plusieurs paires de valeurs et nous désirons calculer la somme de chaque paire.
 
-**Input data** Contient le nombre de paires à traiter sur la première ligne.  
+**Input data** contient le nombre de paires à traiter sur la première ligne.  
 Les lignes suivantes contiennent les paires de valeurs; une paire par ligne.  
 **Answer** doit contenir les sommes séparées par des espaces.
 
