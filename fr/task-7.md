@@ -1,5 +1,5 @@
 <!-- #Fahrenheit to Celsius -->
-Cet exercice de programmation est à peu près le même que "counting sums in loop", mais nécessite un peu plus de calculs.
+Cet exercice de programmation est à peu près le même que "Sums in loop", mais nécessite un peu plus de calculs.
 
 <div class="text-center">
 	<img alt="fahrenheit and celsius" src="https://codeabbey.github.io/data/fahrenheit_celsius.png"/>
@@ -10,9 +10,10 @@ Cet exercice de programmation est à peu près le même que "counting sums in lo
 Il existe deux systèmes de mesure de la température très répandus : Celsius et Fahrenheit.
 Le premier est assez populaire en Europe et le second bien utilisé aux Etats-Unis par exemple.
 
-By Celsius scale water freezes at 0 degrees and boils at 100 degrees. By Fahrenheit water freezes
-at 32 degrees and boils at 212 degrees. You may learn more from [wikipedia on Fahrenheit][wiki]. Use these two points
-for conversion of other temperatures.
+Dans l'échelle Celsius, l'eau gèle à 0 degrés et bout à 100 degrés.
+Dans l'échelle Fahrenheit, l'eau gèle à 32 degrés et bout à 212 degrés.
+Se référer à la page [wikipedia sur le degré Fahrenheit][wiki] pour des explications plus détailées.
+Utilisez ces deux points pour la conversion d'autres températures. 
 
 [wiki]: http://fr.wikipedia.org/wiki/Degr%C3%A9_Fahrenheit
 
